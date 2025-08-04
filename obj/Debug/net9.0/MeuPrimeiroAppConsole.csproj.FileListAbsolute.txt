@@ -1,0 +1,14 @@
+C:\MeuPrimeiroAppConsole\bin\Debug\net9.0\MeuPrimeiroAppConsole.exe
+C:\MeuPrimeiroAppConsole\bin\Debug\net9.0\MeuPrimeiroAppConsole.deps.json
+C:\MeuPrimeiroAppConsole\bin\Debug\net9.0\MeuPrimeiroAppConsole.runtimeconfig.json
+C:\MeuPrimeiroAppConsole\bin\Debug\net9.0\MeuPrimeiroAppConsole.dll
+C:\MeuPrimeiroAppConsole\bin\Debug\net9.0\MeuPrimeiroAppConsole.pdb
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.AssemblyInfoInputs.cache
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.AssemblyInfo.cs
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.csproj.CoreCompileInputs.cache
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.dll
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\refint\MeuPrimeiroAppConsole.dll
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.pdb
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\MeuPrimeiroAppConsole.genruntimeconfig.cache
+C:\MeuPrimeiroAppConsole\obj\Debug\net9.0\ref\MeuPrimeiroAppConsole.dll
